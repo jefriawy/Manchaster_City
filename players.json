@@ -1,0 +1,124 @@
+{
+  "result": [
+    {
+      "no": "31",
+      "name": "Ederson",
+      "birth_date": "1993-08-17",
+      "position": "Goalkeeper",
+      "international": "Brazil",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p219847.png"
+    },
+    {
+      "no": "18",
+      "name": "Stefan Ortega",
+      "birth_date": "1992-11-06",
+      "position": "Goalkeeper",
+      "international": "Germany",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p172782.png"
+    },
+    {
+      "no": "2",
+      "name": "Kyle Walker",
+      "birth_date": "1990-05-28",
+      "position": "Defender",
+      "international": "England",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p58621.png"
+    },
+    {
+      "no": "3",
+      "name": "Ruben Dias",
+      "birth_date": "1997-05-14",
+      "position": "Defender",
+      "international": "Portugal",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p171287.png"
+    },
+    {
+      "no": "5",
+      "name": "John Stones",
+      "birth_date": "1994-05-28",
+      "position": "Defender",
+      "international": "England",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p149184.png"
+    },
+    {
+      "no": "25",
+      "name": "Manuel Akanji",
+      "birth_date": "1995-07-19",
+      "position": "Defender",
+      "international": "Switzerland",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p167199.png"
+    },
+    {
+      "no": "6",
+      "name": "Nathan Ake",
+      "birth_date": "1995-02-18",
+      "position": "Defender",
+      "international": "Netherlands",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p126184.png"
+    },
+    {
+      "no": "24",
+      "name": "Josko Gvardiol",
+      "birth_date": "2002-01-23",
+      "position": "Defender",
+      "international": "Croatia",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p461834.png"
+    },
+    {
+      "no": "8",
+      "name": "Ilkay Gundogan",
+      "birth_date": "1990-10-24",
+      "position": "Midfielder",
+      "international": "Germany",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p59859.png"
+    },
+    {
+      "no": "16",
+      "name": "Rodri",
+      "birth_date": "1996-06-22",
+      "position": "Midfielder",
+      "international": "Spain",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p220566.png"
+    },
+    {
+      "no": "20",
+      "name": "Bernardo Silva",
+      "birth_date": "1994-08-10",
+      "position": "Midfielder",
+      "international": "Portugal",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p165153.png"
+    },
+    {
+      "no": "17",
+      "name": "Kevin De Bruyne",
+      "birth_date": "1991-06-28",
+      "position": "Midfielder",
+      "international": "Belgium",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p61366.png"
+    },
+    {
+      "no": "47",
+      "name": "Phil Foden",
+      "birth_date": "2000-05-28",
+      "position": "Midfielder",
+      "international": "England",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p209036.png"
+    },
+    {
+      "no": "9",
+      "name": "Erling Haaland",
+      "birth_date": "2000-07-21",
+      "position": "Forward",
+      "international": "Norway",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p223094.png"
+    },
+    {
+      "no": "10",
+      "name": "Jack Grealish",
+      "birth_date": "1995-09-10",
+      "position": "Forward",
+      "international": "England",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p114283.png"
+    }
+  ]
+}
